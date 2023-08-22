@@ -19,7 +19,24 @@ You decide to build a real-time dashboard using Looker Studio to provide the man
 
 **📒Data:**
 
+googleform (dapat diisi dan hasilnya akan langsung terupdate pada dashboard setiap 10 detik)
+
+https://forms.gle/uHTJzsKrUbWQw2Aa8
+
+dataset diambil dari spreadsheet yang merupakan hasil respon dari google form dan dummy data
+
+https://docs.google.com/spreadsheets/d/1R_bfoZORHvjIBMkcMhn1uuQNtrND4W8AqEKkUgZqKXI/edit?usp=sharing
+
 **📒Variabel:**
+
+- `Timestamp`: waktu pengisian googleform 
+- `Domisili Provinsi`: domisili provinsi pengisian googleform (38 Provinsi di Indonesia)
+- `Jenis Kelamin`: jenis kelamin pengisi googleform (Laki-laki/perempuan)
+- `Umur (tahun)`: umur pengisi googleform
+- `Pendidikan terakhir`: pendidikan terakhir (SD/SMP/SMA/DIPLOMAT/SARJANA/MAGISTER/DOKTORAL)
+- `Status Perkawinan`: hubungan pengisi googleform (lajang/menikah)
+- `Status Pekerjaan`: jenis pekerjaan
+- `gen`: tipe generasi berdasarkan umur
 
 ## 🧵Result
 
