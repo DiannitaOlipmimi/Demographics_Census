@@ -71,9 +71,6 @@ https://docs.google.com/spreadsheets/d/1R_bfoZORHvjIBMkcMhn1uuQNtrND4W8AqEKkUgZq
     Share the Looker Studio dashboard with the management team, providing them with secure access to real-time sales insights.
     Enable interactive features like drill-downs and filters to allow users to explore the data on their own.
 
-8. Outcome:
-    The real-time sales performance dashboard provides the management team with instant insights into sales trends, product performance, and store-specific data. This enables them to make timely decisions, allocate resources effectively, and take actions based on the most current information available.
-
 **🔑Key Skills Demonstrated:**
 
 - Data integration from Google Forms and Google Spreadsheets.
